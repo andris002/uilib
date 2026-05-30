@@ -71,8 +71,8 @@ exports('progress', progress)
 
 exports('notify', notify)
 
-RegisterNetEvent('nn_uilib:notify')
-AddEventHandler('nn_uilib:notify', function(title, description, time, theme, icon)
+RegisterNetEvent('nn_uipack:notify')
+AddEventHandler('nn_uipack:notify', function(title, description, time, theme, icon)
     notify(title, description, time, theme, icon)
 end)
 
@@ -85,7 +85,7 @@ end)
 
 RegisterNUICallback('newcolor', function(data, cb)
     theme = data
-    TriggerEvent('noname_uilib:colorChanged', data)
+    TriggerEvent('nn_uipack:colorChanged', data)
     cb('ok')
 end)
 
