@@ -1,4 +1,4 @@
-# Noname UILIB
+# Noname UIPACK
 
 ## Preview
 
@@ -8,7 +8,7 @@
 
 Full documentation, examples, and usage guides are available on GitBook:
 
-### https://noname-scripts.gitbook.io/noname/free-scripts/uilib
+### https://noname-scripts.gitbook.io/noname/free-scripts/uipack
 
 ## Installation
 
