@@ -7,6 +7,9 @@ lua54 'yes'
 client_script 'client/*.lua'
 
 ui_page 'dist/index.html'
+
+provide 'noname_uipack'
+
 files {
     'dist/**',
     'dist/**/**'
