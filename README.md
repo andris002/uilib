@@ -23,6 +23,7 @@ ensure noname_uilib
 ## Support
 
 If you encounter any issues or have suggestions, feel free to contact me on discord (andris00202 or discord.gg/ycpDqtMrAp).
+If you want to edit the whole UI don't hesitate, contact me on discord and I'll give you the whole code not the builded version.
 
 ---
 
